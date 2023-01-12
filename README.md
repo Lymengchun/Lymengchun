@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about coding
 - 📫 How to reach me: try hard be strong
 - 😄 Pronouns: meng
-- ⚡ Fun fact: "OMG" usage can be traced back to 1917.
+- ⚡ Fun fact: Some cats are actually allergic to humans.
+
+![alt text](https://images.pexels.com/photos/949194/pexels-photo-949194.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
