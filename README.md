@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: meng
 - ⚡ Fun fact: Some cats are actually allergic to humans.
 
-![alt text](https://images.pexels.com/photos/949194/pexels-photo-949194.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![alt text](https://picsum.photos/1080/720)
