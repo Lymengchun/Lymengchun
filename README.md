@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Lymengchun/Lymengchun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: try hard be strong
 - 😄 Pronouns: meng
 - ⚡ Fun fact: "OMG" usage can be traced back to 1917.
--->
