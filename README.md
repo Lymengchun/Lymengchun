@@ -1,6 +1,7 @@
+
+![alt text](https://picsum.photos/1080/420)
+
 ### Hi there 👋
-
-
 <!-- **Lymengchun/Lymengchun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 
 https://profile-summary-for-github.com/user/lymengchun
 
-<!-- ![alt text](https://picsum.photos/1080/720) -->
+
 
 https://www.buymeacoffee.com/lymengchhun
 ![bmc_qr (1)](https://user-images.githubusercontent.com/56832985/211974342-4c7c5c4f-8499-48a4-b07a-d8bf2968f26b.png)
