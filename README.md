@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 [!["clickhere"](https://media.giphy.com/media/rvUbaxVpe87qErZ6yE/giphy.gif)](https://profile-summary-for-github.com/user/lymengchun)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 # CHECK MY LIBRARY
 !["arrowdown"](https://media.giphy.com/media/hJl9v892gjwLEdHoZv/giphy.gif)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
