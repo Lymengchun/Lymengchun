@@ -1,6 +1,6 @@
 
 ![alt text](https://picsum.photos/1080/420)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lymengchun&theme=onedark)](https://github.com/Lymengchun/github-profile-trophy)
 ### Hi there 👋
 <!-- **Lymengchun/Lymengchun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
