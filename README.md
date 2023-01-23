@@ -1,4 +1,5 @@
 
+
 ![alt text](https://picsum.photos/1080/420)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lymengchun&theme=onedark)](https://github.com/Lymengchun/github-profile-trophy)
 ### Hi there 👋
@@ -23,3 +24,5 @@ Here are some ideas to get you started:
 
 # CHECK MY LIBRARY
 !["arrowdown"](https://media.giphy.com/media/hJl9v892gjwLEdHoZv/giphy.gif)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
