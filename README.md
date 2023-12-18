@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Lymeng 👋 I'm a 🚀 Khmer developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Lymeng 👋 I'm a 🚀 Khmer developer 🚀 I ❤️ Happy Coding ❤️">
 </p>
 ### Hi there 👋
 <!-- **Lymengchun/Lymengchun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
