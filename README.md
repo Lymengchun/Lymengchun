@@ -1,6 +1,6 @@
 <!--![](./anime.svg)-->
 ### Hi there 👋
-**Lymengchun/Lymengchun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+<!--**Lymengchun/Lymengchun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<!--# CHECK MY LIBRARY
-!["arrowdown"](https://media.giphy.com/media/hJl9v892gjwLEdHoZv/giphy.gif)-->
+# CHECK MY LIBRARY
+!["arrowdown"](https://media.giphy.com/media/hJl9v892gjwLEdHoZv/giphy.gif)
 
 
